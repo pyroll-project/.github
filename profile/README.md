@@ -12,7 +12,7 @@ See the [documentation](https://pyroll.readthedocs.io/en/latest) to learn about 
 
 ## License
 
-The project is licensed under the [BSD 3-Clause license](LICENSE).
+The project is licensed under the [BSD 3-Clause license](../LICENSE).
 
 ## Contributing
 
