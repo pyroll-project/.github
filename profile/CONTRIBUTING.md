@@ -11,7 +11,7 @@ propose changes even to this document in a pull request.
 1. If your question relates to a bug in PyRolL, please briefly search the `issues page`_ and open a new labeled issue if
    you don't see anything related to your question there.
 2. You can also contact us on stackoverflow with the tag 'PyRolL'. There we will answer your questions. For bug fixes,
-   please open an issue on github, as mentioned before.
+   please open an issue on GitHub, as mentioned before.
 
 ## License
 
@@ -20,23 +20,25 @@ considered open-source.
 
 ## What should I know before I get started?
 
+PyRolL is a modulare framework for rolling processes. 
+Before you get started, please get familiar with the underlying concept of the framework.
+Check out our tests and if you have questions, feel free to reach out to us.
+
 ### The structure of PyRolL
 
-> [!NOTE]
-> Work in progress...
+PyRolL is structured in several repositories. 
+The center part of PyRolL is the `pyroll-core` repository. 
+It contains the calculation core and also defines several hooks. 
+If you want to know more about hooks, the concepts of PyRolL, check out our [documentation](https://pyroll.readthedocs.io/en/latest/).
 
-### The principles of PyRolL
-
-> [!NOTE]
-> Work in progress...
 
 ### PyRolL developer meetings
 
-If you are interested in discussing PyRolL's development, we encourage you to virtually participate in the PyRolL
-developer meeting Mondays at 15:00 german time (GMT+2). Contact us if you want to participate in the weekly virtual
-PyRolL developer meeting, become part of the PyRolL organization, and check the discussion page for details.
+If you are interested in discussing PyRolL's development, we encourage you to participate, write us a mail and 
+discuss your contribution to the project.
+Otherwise, you can always fork the project and present us your changes and how PyRolL would benefit from them.
+Also, there is a user meeting, which is held together with the "Freiberger Kalibreurstag" a second date is currently being explored.
 
-## How can I contribute?
 
 ### Reporting bugs
 
