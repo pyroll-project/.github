@@ -22,3 +22,9 @@ The project is licensed under the [BSD 3-Clause license](../LICENSE).
 
 See our [contribution guidelines](profile/CONTRIBUTING.md).
 These apply for every repository of the project. 
+
+## Citing
+
+You worked with PyRolL and published a paper or book chapter? 
+Reach out to us and we can discuss featuring your work in our example section of the PyRolL docs.
+If you use PyRolL in your work please consider citing the project using the following [paper}(https://joss.theoj.org/papers/10.21105/joss.06200).
