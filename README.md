@@ -28,3 +28,9 @@ These apply for every repository of the project.
 You worked with PyRolL and published a paper or book chapter? 
 Reach out to us and we can discuss featuring your work in our example section of the PyRolL docs.
 If you use PyRolL in your work please consider citing the project using the following [paper](https://joss.theoj.org/papers/10.21105/joss.06200).
+
+## Funding
+
+PyRolL is currently support by the SAB and the EFRE programm under the grant number: 100688987.
+The corresponding press release can be found using the following [link](https://tu-freiberg.de/news/vom-labor-den-markt-tu-bergakademie-freiberg-erneut-erfolgreich-bei-validierungsfoerderung).
+![](img/EFRE-ESF_LO_Kombination_EU-Logo_FreistaatSachsen_H_ENG_RGB.png)
