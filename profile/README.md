@@ -23,6 +23,17 @@ The project is licensed under the [BSD 3-Clause license](../LICENSE).
 See our [contribution guidelines](profile/CONTRIBUTING.md).
 These apply for every repository of the project. 
 
+## Meetings
+
+Twice a year, we look forward to meet all users and interestes of PyRolL in person.
+These User-meetings are meant to discuss general strategic topics regarding the developement of PyRolL as well as for users to present theirs ways of working with PyRolL.
+The next dates are: 
+
+| Date  | Place  | Topic  | Protocol  |
+|---|---|---|---|
+| 29.08.2024  | Freiberg, Institute of Metal Forming   |   |   |
+| 27.02.2025  | tba  |   |   |
+
 ## Citing
 
 You worked with PyRolL and published a paper or book chapter? 
