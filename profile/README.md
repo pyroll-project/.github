@@ -52,3 +52,12 @@ If you use PyRolL in your work please consider citing the project using the foll
 PyRolL is currently support by the SAB and the EFRE programm under the grant number: 100688987.
 The corresponding press release can be found using the following [link](https://tu-freiberg.de/news/vom-labor-den-markt-tu-bergakademie-freiberg-erneut-erfolgreich-bei-validierungsfoerderung).
 ![](img/EFRE-ESF_LO_Kombination_EU-Logo_FreistaatSachsen_H_ENG_RGB.png)
+
+
+## Contributors 
+
+The PyRolL project couldn't strive without the feedback and contributions of the community. In this section we want to mention and praise the work of individuals who contributed to the project.
+This contribution doesn't have to be in the form of code but also feedback,demonstrative notebooks or participation in discussions.
+
+[@sag-kalibreur](https://github.com/sag-kalibreur)
+[@GRPlan](https://github.com/GRPlan)
