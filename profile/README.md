@@ -28,11 +28,17 @@ These apply for every repository of the project.
 Twice a year, we look forward to meet all users and interestes of PyRolL in person.
 These User-meetings are meant to discuss general strategic topics regarding the developement of PyRolL as well as for users to present theirs ways of working with PyRolL.
 The next dates are: 
-
-| Date  | Place  | Topic  | Protocol  |
-|---|---|---|---|
-| 29.08.2024  | Freiberg, Institute of Metal Forming   |   |   |
-| 27.02.2025  | tba  |   |   |
+| Date       | Place                                | Topic                                       | Protocol                                            | Archive                                                                                                     | 
+|------------|--------------------------------------|---------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 2023-08-29 | Freiberg, Institute of Metal Forming | 5th Freiberger Kalibreurstag                | -                                                   | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13373248.svg)](https://doi.org/10.5281/zenodo.13373248) |
+| 2023-09-01 | Freiberg, Institute of Metal Forming | 1st PyRolL User Meeting                     | -                                                   | -                                                                                                           |
+| 2024-10-06 | Freiberg, Institute of Metal Forming | Seminar "Basics of Groove Rolling"          | -                                                   | -                                                                                                           |
+| 2024-04-19 | Freiberg, Institute of Metal Forming | Kick-Off Meeting Validation Funding Project | https://hackmd.io/@SS_Eztf0QiSTdZbU9smz8A/ryZyG9y-A | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10974647.svg)](https://doi.org/10.5281/zenodo.10974647) |
+| 2024-08-29 | Freiberg, Institute of Metal Forming | 6th Freiberger Kalibreurstag                | -                                                   | -                                                                                                           |
+| 2024-08-31 | Freiberg, Institute of Metal Forming | 2nd PyRolL User Meeting                     | -                                                   | -                                                                                                           |
+| 2024-10-04 | Donostia-San Sebastian               | AIKW Conference                             | -                                                   | -                                                                                                           |
+| 2025-04    | tba                                  | 3rd PyRolL User Meeting                     | -                                                   | -                                                                                                           |
+| 2025-0-16  | Freiberg, Institute of Metal Forming | Semniar "Basics of Groove Rolling"          | -                                                   | -                                                                                                           |
 
 ## Citing
 
