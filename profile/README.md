@@ -1,7 +1,7 @@
 
-![TUBAF Logo](img/tubaf.svg)
-![IMF Logo](img/imf.svg)
-![PyRolL Logo](img/pyroll.svg)
+![TUBAF Logo](tubaf.svg)
+![IMF Logo](imf.svg)
+![PyRolL Logo](pyroll.svg)
 
 Welcome to The PyRolL Project!
 
@@ -56,7 +56,7 @@ If you use PyRolL in your work please consider citing the project using the foll
 
 PyRolL is currently support by the SAB and the EFRE programm under the grant number: 100688987.
 The corresponding press release can be found using the following [link](https://tu-freiberg.de/news/vom-labor-den-markt-tu-bergakademie-freiberg-erneut-erfolgreich-bei-validierungsfoerderung).
-![](img/EFRE-ESF_LO_Kombination_EU-Logo_FreistaatSachsen_H_ENG_RGB.png)
+![EFRE Funding Logo](EFRE-ESF_LO_Kombination_EU-Logo_FreistaatSachsen_H_ENG_RGB.png)
 
 
 ## Contributors 
