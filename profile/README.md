@@ -1,6 +1,8 @@
 
 ![TUBAF Logo](tubaf.svg)
+
 ![IMF Logo](imf.svg)
+
 ![PyRolL Logo](pyroll.svg)
 
 Welcome to The PyRolL Project!
